@@ -84,7 +84,7 @@ span.small{
 .container .mid-img{
   width: 100%;
   height: 400px;
-  background: url('/static/d.jpg');
+  background: url('/static/a.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
